@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ex5</string>
+    <string name="tap_on_me">tap on me</string>
+    <string name="go_fish">Go fish!</string>
+</resources>
